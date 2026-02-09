@@ -262,6 +262,9 @@ Developed self-healing mechanism using Jiralert integrated with Prometheus Alert
 - ✅ **Microsoft Azure Fundamentals (AZ-900)**
 - ✅ **Docker Mastery with Kubernetes**
 - ✅ **DevOps: Infrastructure Automation with Terraform**
+- ✅ **Generative AI: Prompt Engineering**
+- ✅ **Generative AI: Impact on Business and Society**
+- ✅ **Generative AI: Fundamentals, Applications, and Challenges**
 
 ---
 
