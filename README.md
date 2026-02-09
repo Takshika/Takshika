@@ -278,7 +278,7 @@ Developed self-healing mechanism using Jiralert integrated with Prometheus Alert
 ### 🎯 Organizational Leadership
 
 💼 **Core Member** - Monthly Tech Magazine, Tech News & Business Case Studies Committees  
-💼 **Team Lead** - Managing 3-4 resources across US and India  
+💼 **Team Lead** - Managing 12 resources across US and India  
 💼 **Co-organizer** - NYC Founders & Investors Event (120+ attendees)  
 💼 **Event Volunteer** - Fintech Is Femme Conference (700+ attendees)  
 💼 **Co-founder** - Sky Meditation Club, Columbia University  
