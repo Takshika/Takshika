@@ -387,23 +387,12 @@ Star Performer across 200+ engineers, automated operations, achieved exceptional
 
 ## 📊 GitHub Stats
 
-div align="center">
-<!-- GitHub Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=takshika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7FFF00&text_color=E8F1F5&count_private=true&include_all_commits=true" alt="GitHub Stats" width="495"/>
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takshika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E8F1F5&langs_count=8" alt="Top Languages" width="495"/>
-<!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=takshika&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7FFF00&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" width="495"/>
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=takshika&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=7FFF00&point=00D9FF" alt="Contribution Graph" width="100%"/>
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=takshika&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7FFF00&fire=FF6B35&currStreakLabel=00D9FF)
+
 </div>
-<!--
-Note: If stats show "Error Fetching Resource", the API may be rate-limited. 
-You can deploy your own instance: https://github.com/anuraghazra/github-readme-stats
-Or use alternative services like:
-- https://github.com/DenverCoder1/github-readme-streak-stats
-- https://github.com/Ashutosh00710/github-readme-activity-graph
--->
+
 
 ---
 
