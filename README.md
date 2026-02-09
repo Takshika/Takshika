@@ -387,15 +387,15 @@ Star Performer across 200+ engineers, automated operations, achieved exceptional
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=takshika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7FFF00&text_color=E8F1F5" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takshika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E8F1F5" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=takshika&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7FFF00&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</p>
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=takshika&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=7FFF00&text_color=E8F1F5)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=takshika&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=E8F1F5)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=takshika&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=7FFF00&fire=FF6B35&currStreakLabel=00D9FF)
+
+</div>
 
 ---
 
