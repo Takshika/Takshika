@@ -379,8 +379,6 @@ I'm passionate about projects at the intersection of **AI governance**, **agenti
 
 📧 **Email:** takshika.jambhule10@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/takshikajambhule](https://www.linkedin.com/in/takshikajambhule/)  
-🌐 **Portfolio:** [takshika.github.io/takshikajambhule-portfolio](https://takshika.github.io/takshikajambhule-portfolio/)  
-🤖 **AI Framework:** [takshika.github.io/ai-readiness-framework](https://takshika.github.io/ai-readiness-framework/)  
 📍 **Location:** New York City, NY
 
 ---
