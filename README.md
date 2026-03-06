@@ -146,7 +146,7 @@ Co-engineered *"Not a Regular Therapist"* — an AI mood-tracking agent with Sen
 ---
 
 ### 📰 FlipItNews: Automated News Categorization
-> **NLP Classification Engine | Scaler Academy**
+> **NLP Classification Engine | Scaler Academy** 
 
 Built a multi-class NLP engine to auto-categorize news articles across 5 sectors, benchmarking Naive Bayes, Random Forest, Decision Trees, and LSTM with GloVe Embeddings.
 
@@ -166,7 +166,7 @@ Architecting a high-performance AI agent optimized for minimal carbon footprint,
 ## 🏆 Infrastructure Excellence Portfolio
 
 ### ☁️ Azure Cloud Transformation @ Victoria's Secret & Co
-> **$800K+ Annual Savings | 65% Cost Reduction | 99.99% Uptime**
+> 65% Cost Reduction | 99.99% Uptime**
 
 Led full migration of high-visibility coupon and promotion platforms from on-prem to Azure AKS, serving 10M+ users at peak.
 
@@ -174,7 +174,7 @@ Led full migration of high-visibility coupon and promotion platforms from on-pre
 
 | Metric | Result |
 |---|---|
-| Infrastructure Cost | ↓ 65% ($800K+ annual savings) |
+| Infrastructure Cost | ↓ 65% |
 | Deployment Speed | ↑ 97% faster (Terraform reusable modules) |
 | Traffic Capacity | 3x spike handling via HPA & load testing |
 | Uptime SLA | 99.99% maintained through migration |
@@ -336,7 +336,7 @@ Focus: AI & Digital Strategy · Data Science · Systems Leadership · Knowledge 
 
 | Domain | Achievement |
 |---|---|
-| 💰 Cost Savings | $800K+ annual savings (65% reduction) |
+| 💰 Cost Savings | 65% reduction |
 | ⏱️ Deployment Speed | 97% faster via Terraform + CI/CD automation |
 | 🔧 Incident Reduction | 98% fewer critical incidents via AIOps |
 | 🔐 Security | 85% vulnerability reduction via DevSecOps |
