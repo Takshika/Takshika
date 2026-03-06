@@ -62,7 +62,6 @@ achievements:
     - "Runner-Up: Columbia AI + Mental Health Hackathon"
     - "Presenter: Symposium on Responsible AI, Barnard College (Feb 2026)"
   infrastructure_excellence:
-    - "$800K+ annual infrastructure cost savings"
     - "99.99% uptime on mission-critical systems serving 10M+ users"
     - "90% deployment speed improvement via Terraform automation"
     - "98% incident reduction through self-healing AIOps"
