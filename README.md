@@ -223,7 +223,7 @@ Built ML and analytics infrastructure on AWS/GCP for 20+ data scientists, with s
 Focus: AI & Digital Strategy · Data Science · Systems Leadership · Knowledge Governance
 
 **🎓 Bachelor of Engineering, Electronics Engineering**  
-📍 Nagpur University (RTMNU), India | *Jun 2011 – May 2015*
+📍 Nagpur University (RTMNU), India 
 
 ---
 
