@@ -36,7 +36,6 @@ role: Senior Platform Architect & AI Systems Lead
 location: New York City, NY
 education: MS in Information & Knowledge Strategy @ Columbia University
 experience: 8+ years in Cloud Infrastructure + AI Strategy
-cost_savings: $800K+ through infrastructure optimization
 mission: Bridging SRE-grade reliability with Agentic AI Governance
 
 specialization:
